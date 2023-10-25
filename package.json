@@ -14,7 +14,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@ignored/edr": "^0.1.0-alpha.3",
+    "@ignored/edr": "^0.1.0-alpha.1",
     "@nomicfoundation/ethereumjs-util": "^9.0.3"
   }
 }
